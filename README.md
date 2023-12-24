@@ -4,13 +4,8 @@
 - 🔭 I’m currently working on [Pepper]  
   
 
-- 🌱 I’m currently learning Functional Programming Paradigm with OCaml  
+- 🌱 I’m currently learning Functional Programming with OCaml  
   
-
-- ❤️ In Love with Rust   
-  
-
-- ⚡ NeoVim >>>>>>>> [Insert your favorite IDE]  
   
 
 <br/>  
