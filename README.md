@@ -1,10 +1,8 @@
 ### <div align="center">I'm Vidur, a passionate Software Engineer, dedicated to crafting innovative solutions and driving technological advancements.</div>  
   
 
-- 🔭 I’m currently working on [Pepper]  
+- 🔭 I’m currently working on [Evenscribe](https://www.github.com/evenscribe)  
   
-
-- 🌱 I’m currently learning Functional Programming with OCaml  
   
   
 
