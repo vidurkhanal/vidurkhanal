@@ -1,6 +1,6 @@
 ### <div align="center">I'm Vidur, a passionate Software Engineer, dedicated to crafting innovative solutions and driving technological advancements.</div>  
 
-- 🔭 I’m currently working on [Evenscribe](https://www.github.com/evenscribe)  
+- 🔭 Currently building a performant and intuitive Logging Infrastructure @ [Evenscribe](https://www.github.com/evenscribe)  
   
 
 <a href="https://linkedin.com/in/vidurkhanal" target="_blank">
