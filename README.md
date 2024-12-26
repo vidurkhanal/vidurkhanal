@@ -1,6 +1,6 @@
-### <div align="center">I enjoy building softwares that make your softwares become more performant and reliable.</div>  
+### <div align="center">Software Engineer specializing in performance optimization and infrastructure reliability</div>  
 
-- 🔭 Currently building a performant and intuitive infrastructure monitoring @ [Evenscribe](https://www.github.com/evenscribe)  
+Currently Building [@Evenscribe](https://www.github.com/evenscribe), focused on developing robust monitoring solutions for enterprise systems.
   
 
 <a href="https://linkedin.com/in/vidurkhanal" target="_blank">
